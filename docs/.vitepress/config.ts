@@ -242,6 +242,10 @@ export default defineConfig({
           { text: 'Blog', link: '/blog' },
           { text: 'Veröffentlichungen', link: '/releases' },
           {
+            text: 'The Documentary',
+            link: 'https://www.youtube.com/watch?v=bmWQqAKLgT4',
+          },
+          {
             items: [
               {
                 text: 'Bluesky',
